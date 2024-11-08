@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border = "1">
+        <caption><b>technologies</b></caption>
+
+<tr>
+    
+<th>language</th>
+<th>competancy</th>
+<th>years</th>
+</tr>
+<tr>
+    <td>C</td>
+    <td>5/10</td>
+    <td>10 years</td>
+</tr>
+<td>java</td>
+<td>8/10</td>
+<td>9 years</td>
+<tr>
+    <td> 
+        <colpson>" this is cell span 3 coloumns"</colpson> 
+
+    </td>
+</tr>
+
+    </table>
+</body>
+</html>
