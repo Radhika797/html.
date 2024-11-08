@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>text editor</title>
+</head>
+<body>
+    <b>data science</b><hr>
+    <i>python</i><hr>
+    <u>libraries - numpy pandas matplotlib seaborn</u><hr>
+    <s>machine learning artiificial intelligency deep learning</s>
+</body>
+</html>
