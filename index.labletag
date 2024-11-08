@@ -1,0 +1,25 @@
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <action> ="/contact me"></action> 
+        <lable for = "email">Username:</lable>
+        <input type =  "text" id = "email" placeholder = "email" required = "true"><br>
+        <lable for = "Userpassword" >Password</lable><br>
+        <input id = "Userpassword" type = "password"><br>
+        <input type = "submit"><br>
+        date : <input type = "date"><br>
+        file : <inpute type = "file"><br>
+        colours : <input type = "colour"><br>
+        price range :<input type = "range"><br>
+        button: <input type = "button" value = "           "><br>
+        <input type = "submit"><br>
+    </form>
+    
+</body>
+</html>
