@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>section artical or aside tag</title>
+</head>
+<body>
+    <header>header</header>
+    <main>
+        <section>
+            <h2>addmission</h2>
+            admission will start soon
+        </section>
+        <section>
+            <h2>placement</h2>
+            ready for placement
+        </section>
+
+    <aartical>
+       <u> the famouse artical of chandrayan 2</u><br>
+    </artical>
+<aside>
+    helps screen readers to identify key content
+</aside>
+    </main>
+    
+</body>
+</html>
