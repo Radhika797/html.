@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video</title>
+</head>
+<body>
+   <video src="https://video.search.yahoo.com/video/play;_ylt=AwrOrnAW2ChnoFQW4yj7w8QF;_ylu=c2VjA3NyBHNsawN2aWQEZ3BvcwMz?p=videos+30+sec&vid=0dd66bcc681d9c3860951a1164e23f43&turl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.tZVVrWS1EgHfa_aFZlY3qgHgFo%26pid%3DApi%26h%3D360%26w%3D480%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx5wkIewzyNg&tit=funny+%3Cb%3Evideos%3C%2Fb%3E+%3Cb%3E30%3C%2Fb%3E+seconds&c=2&sigr=OBRhYGtRBJq9&sigt=82ucNZbFbrfI&sigi=VUxY8W9TeWxN&fr2=p%3As%2Cv%3Av&h=360&w=480&l=30&age=1618504272&fr=mcafee&type=E210US885G0&tt=b"
+   alt="sanchit sir scolding"
+   higth="300px"
+   loop
+   autoplay
+   muted
+   controls />
+</body>
+</html>
