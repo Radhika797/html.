@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <lable for = "country">select your country</lable>
+        <select name = "country" id = "country">
+        <option value = "india">india</option>
+        <option value = "us">us</option>
+        <option value = "uk">uk</option>
+        <option value = "other">other</option>
+        </select>
+
+    <textarea name = "story" id = "story" cols = "20" rows = "4">
+        please write a story
+    </textarea>
+    </form>
+    <iframe
+        width = "300" hight = "30" 
+        scr = "link any webpage"></iframe>
+    
+</body>
+</html>
