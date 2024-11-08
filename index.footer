@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>footer tag</title>
+</head>
+<body>
+    <footer>
+        footer content are like extra information or links<br>
+        typically at the bottom of page or section<br>
+        includes  copyrights contant info and social links<br>
+        - first link <br>
+        - second link<br>
+    </footer>
+</body>
+</html>
